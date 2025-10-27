@@ -1,5 +1,5 @@
-# CS_320_Portfolio
-Portfolio for CS 320 - Operating Platforms
+# CS_230_Portfolio
+Portfolio for CS 230 - Operating Platforms
 
 •	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
